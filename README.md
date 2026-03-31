@@ -98,9 +98,13 @@ Randomizes options for each question
 
 ## 📌 Future Improvements
 Improve question quality using advanced NLP/LLMs
+
 Add difficulty levels (Easy/Medium/Hard)
+
 Export MCQs to PDF/CSV
+
 Add user authentication
+
 Deploy on cloud (Render/Heroku)
 
 ## 🤝 Contributing
